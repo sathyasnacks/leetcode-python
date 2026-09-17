@@ -6,8 +6,12 @@ Let's see if I am really about that consistency ! haha.
 <!-- leetcode-progress:start -->
 ## Progress
 
-Solved: **0** · Unsolved: **0**
+Solved: **1** · Unsolved: **0**
 
-Easy: 0 · Medium: 0 · Hard: 0
+Easy: 1 · Medium: 0 · Hard: 0
+
+| Solved problem | Difficulty |
+| --- | --- |
+| [1929. Concatenation of Array](solutions/1929-concatenation-of-array/solution.py) | Easy |
 
 <!-- leetcode-progress:end -->
